@@ -22,6 +22,13 @@ h2 {
 	font-size: 1.5em;
 }
 
+#selected {
+	text-align: center;
+	padding-top: 10px;
+	color: black;
+	font-size: 1.5em;
+}
+
 .role-image {
 	width: 40%;
 }
